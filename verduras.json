@@ -13,5 +13,10 @@
     "codigo": 3,
     "descripcion": "sandia",
     "precio": 31
+  },
+  {
+    "codigo": 5,
+    "descripcion": "uva",
+    "precio": 9
   }
 ]
