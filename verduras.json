@@ -1,8 +1,8 @@
 [
   {
-    "codigo": 4,
-    "descripcion": "pera",
-    "precio": 15
+    "codigo": 1,
+    "descripcion": "papas",
+    "precio": 12.33
   },
   {
     "codigo": 2,
@@ -13,10 +13,5 @@
     "codigo": 3,
     "descripcion": "sandia",
     "precio": 31
-  },
-  {
-    "codigo": 5,
-    "descripcion": "uva",
-    "precio": 9
   }
 ]
